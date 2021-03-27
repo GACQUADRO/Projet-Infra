@@ -16,7 +16,7 @@ pour configurer le partage de dossier.
 
 # Bonnes manières
 
-- Iso windows server 2019
+- Iso windows server 2016
 - Nom de domaine cohérents 
 - Groupes cohérents aussi
 - Avoir de bons mots de passe
