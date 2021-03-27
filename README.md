@@ -20,4 +20,4 @@ pour configurer le partage de dossier.
 - Nom de domaine cohérents 
 - Groupes cohérents aussi
 - Avoir de bons mots de passe
-- Changer les mots de passes ds utilisateurs créés
+- Changer les mots de passes des utilisateurs créés
